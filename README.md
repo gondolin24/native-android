@@ -1,2 +1,2 @@
 # native-android
-collection of courses taken to learn android studio
+collection of courses taken to learn learn more android/kotlin
